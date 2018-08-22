@@ -47,7 +47,7 @@ header {
 	text-decoration: none;
 }
 
-header small {
+	.header small {
 	font-size: 12px;
 	display: block;
 	text-align: center;
@@ -167,7 +167,7 @@ footer {
 	padding: 12px 40px;
 	color: #deedfe;
 	text-decoration: none;
-	
+
 }
 
 @media (max-width: 1200px) {
